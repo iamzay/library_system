@@ -1,0 +1,17 @@
+{
+  "libs": [
+    "browser",
+    "jquery",
+    "underscore",
+	"react"
+  ],
+  "loadEagerly": [
+    "misc/*.js"
+  ],
+  "plugins": {
+    "requirejs": {
+      "baseURL": "./",
+      "paths": {}
+    }
+  }
+}

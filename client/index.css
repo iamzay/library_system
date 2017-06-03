@@ -1,0 +1,14 @@
+.form {
+    width: 500px;
+    margin: 100px auto;
+}
+
+.top_left {
+    position: absolute;
+    right:30px;
+}
+
+.horizontal_list li {
+    display: inline;
+    margin: 0 10px;
+}
